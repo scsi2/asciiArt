@@ -187,13 +187,13 @@ function etu31 {
 }
 function prof {
 	echo "travail du prof"
-	echo		    ..
-	echo	      ..  ..
-	echo	            ..
-	echo	             ..
-	echo	            ..
-	echo	           ..
-	echo	         ..
+	echo "		    .."
+	echo "	     	. .."
+	echo "	            .."
+	echo "             .."
+	echo "	            .."
+	echo "	           .."
+	echo "	         .."
 	echo "	##       ..    ####"
 	echo "	##.............##  ##"
 	echo "	##.............##   ##"
