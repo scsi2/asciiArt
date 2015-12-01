@@ -187,7 +187,6 @@ function etu31 {
 }
 function prof {
 	echo "travail du prof"
-	echo "mon asci art"
 	echo		    ..
 	echo	      ..  ..
 	echo	            ..
