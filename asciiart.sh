@@ -110,16 +110,9 @@ function etu18 {
 function etu19 {
 	echo "travail de Major Paine!"
 	echo "mon ascii  art..."
-   	echo "	   _,.---._            ,-.-.  .-._           ,----.                .=-.-. " 
- 	echo "   ,-.' , -  `. ,-..-.-./  \==\/==/ \  .-._ ,-.--` , \  _,..---._   /==/_ / "
-	echo "  /==/_,  ,  - \|, \=/\=|- |==||==|, \/ /, /==|-  _.-`/==/,   -  \ |==|, |  "
-	echo " |==|   .=.     |- |/ |/ , /==/|==|-  \|  ||==|   `.-.|==|   _   _\|==|  |  "
-	echo " |==|_ : ;=:  - |\, ,     _|==||==| ,  | -/==/_ ,    /|==|  .=.   |/==/. /  "
-	echo " |==| , '='     || -  -  , |==||==| -   _ |==|    .-' |==|,|   | -|`--`-`   "
-	echo " \==\ -    ,_ /  \  ,  - /==/ |==|  /\ , |==|_  ,`-._|==|  '='   / .=.      "
-	echo "  '.='. -   .'   |-  /\ /==/  /==/, | |- /==/ ,     /|==|-,   _`/ :=; :     "
-	echo "    `--`--''     `--`  `--`   `--`./  `--`--`-----`` `-.`.____.'   `=`      "
-	sleep $5
+	echo "     (o o)         (o o)         (o o)         (o o) "    
+	echo " ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo- "
+	sleep $1
 	clear
 }
 function etu20 {
@@ -218,4 +211,4 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
-etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3
+etu19 3
