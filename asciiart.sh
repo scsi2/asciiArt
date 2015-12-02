@@ -72,8 +72,20 @@ function etu12 {
 	clear
 }
 function etu13 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "travail de Thomas"
+	
+	
+	
+echo "  _______   _                                                _____                  _      ____     _____ ";
+echo " |__   __| | |                                              / ____|                | |    / __ \   / ____|";
+echo "    | |    | |__     ___    _ __ ___     __ _   ___        | |        ___   _ __   | |_  | |  | | | (___  ";
+echo "    | |    | '_ \   / _ \  | '_ \` _ \   / _\` | / __|       | |       / _ \ | '_ \  | __| | |  | |  \___ \ ";
+echo "    | |    | | | | | (_) | | | | | | | | (_| | \__ \       | |____  |  __/ | | | | | |_  | |__| |  ____) |";
+echo "    |_|    |_| |_|  \___/  |_| |_| |_|  \__,_| |___/        \_____|  \___| |_| |_|  \__|  \____/  |_____/ ";
+echo "                                                                                                          ";
+echo "                                                                                                          ";
+
+
 	sleep $1
 	clear
 }
@@ -210,3 +222,4 @@ function prof {
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
 
+etu13 3
