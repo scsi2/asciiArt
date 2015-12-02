@@ -60,14 +60,31 @@ function etu10 {
 	clear
 }
 function etu11 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "travail de Annie"
+	echo "▒▒▒▒▒▒▒▒▒▄▄▄▄▒▒▒▒▒▒▒ "
+	echo "▒▒▒▒▒▒▄▀▀▓▓▓▀█▒▒▒▒▒▒ "
+	echo "▒▒▒▒▄▀▓▓▄██████▄▒▒▒▒ "
+	echo "▒▒▒▄█▄█▀░░▄░▄░█▀▒▒▒▒ "
+	echo "▒▒▄▀░██▄░░▀░▀░▀▄▒▒▒▒ "
+	echo "▒▒▀▄░░▀░▄█▄▄░░▄█▄▒▒▒ "
+	echo "▒▒▒▒▀█▄▄░░▀▀▀█▀▒▒▒▒▒ "
+	echo "▒▒▒▄▀▓▓▓▀██▀▀█▄▀▀▄▒▒ "
+	echo "▒▒█▓▓▄▀▀▀▄█▄▓▓▀█░█▒▒ "
+	echo "▒▒▀▄█░░░░░█▀▀▄▄▀█▒▒▒ "
+	echo "▒▒▒▄▀▀▄▄▄██▄▄█▀▓▓█▒▒ "
+	echo "▒▒█▀▓█████████▓▓▓█▒▒ "
+	echo "▒▒█▓▓██▀▀▀▒▒▒▀▄▄█▀▒▒ "
+	echo "▒▒▒▀▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ "
 	sleep $1
 	clear
 }
 function etu12 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "travail de Joey"
+	echo "  .-"""-."
+	echo " /* * * *\"
+	echo ":_.-:`:-._;"
+	echo "    (_)"
+	echo " \|/(_)\|/"
 	sleep $1
 	clear
 }
@@ -223,9 +240,7 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
-<<<<<<< HEAD
 etu19 3
-=======
-
+etu12 1
+etu11 1
 etu13 3
->>>>>>> caab9c9cf9be86c68668551f7cac9d0c0204d9ee
