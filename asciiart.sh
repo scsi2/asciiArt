@@ -218,4 +218,4 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
-
+etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3etu19 3
