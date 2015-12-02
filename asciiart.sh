@@ -60,8 +60,21 @@ function etu10 {
 	clear
 }
 function etu11 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "travail de Annie"
+	echo "▒▒▒▒▒▒▒▒▒▄▄▄▄▒▒▒▒▒▒▒ "
+	echo "▒▒▒▒▒▒▄▀▀▓▓▓▀█▒▒▒▒▒▒ "
+	echo "▒▒▒▒▄▀▓▓▄██████▄▒▒▒▒ "
+	echo "▒▒▒▄█▄█▀░░▄░▄░█▀▒▒▒▒ "
+	echo "▒▒▄▀░██▄░░▀░▀░▀▄▒▒▒▒ "
+	echo "▒▒▀▄░░▀░▄█▄▄░░▄█▄▒▒▒ "
+	echo "▒▒▒▒▀█▄▄░░▀▀▀█▀▒▒▒▒▒ "
+	echo "▒▒▒▄▀▓▓▓▀██▀▀█▄▀▀▄▒▒ "
+	echo "▒▒█▓▓▄▀▀▀▄█▄▓▓▀█░█▒▒ "
+	echo "▒▒▀▄█░░░░░█▀▀▄▄▀█▒▒▒ "
+	echo "▒▒▒▄▀▀▄▄▄██▄▄█▀▓▓█▒▒ "
+	echo "▒▒█▀▓█████████▓▓▓█▒▒ "
+	echo "▒▒█▓▓██▀▀▀▒▒▒▀▄▄█▀▒▒ "
+	echo "▒▒▒▀▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ "
 	sleep $1
 	clear
 }
@@ -225,8 +238,12 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
+<<<<<<< HEAD
 
 etu12 1
 
+=======
+etu11 1
+>>>>>>> 6091322101f1bb8c34a5aabf3cbcaca3d7c1c668
 etu13 3
 
